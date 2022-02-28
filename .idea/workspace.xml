@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="detalle">
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_6/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_6/6.py" afterDir="false" />
+    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="semana 6, udpdate 6.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA/5_EJERCICIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA/5_EJERCICIO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +28,13 @@
     <setting file="file://$PROJECT_DIR$/Platzi_Python2022/mio_practicxa/condicional.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Platzi_Python2022/Generador_Clave.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Idat_Python2022/Semana_6/6.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA/5_EJERCICIO.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="25knu8cP0K3PFsJ9ItBFMLMMviW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -51,7 +56,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.6">
     <configuration name="5_EJERCICIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -165,7 +170,7 @@
       <workItem from="1646080180407" duration="400000" />
       <workItem from="1646080603526" duration="97000" />
       <workItem from="1646081434070" duration="680000" />
-      <workItem from="1646082630626" duration="1145000" />
+      <workItem from="1646082630626" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -174,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646083503132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="semana 6, udpdate 6.py">
+      <created>1646083827191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646083827191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="semana 6, udpdate 6.py">
+      <created>1646084009315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646084009315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,11 +213,12 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="detalle" />
-    <option name="LAST_COMMIT_MESSAGE" value="detalle" />
+    <MESSAGE value="semana 6, udpdate 6.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 6, udpdate 6.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$5_EJERCICIO.coverage" NAME="5_EJERCICIO Coverage Results" MODIFIED="1646083579360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA" />
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083719035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083798848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$Generador_Clave.coverage" NAME="Generador_Clave Coverage Results" MODIFIED="1646083148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Platzi_Python2022" />
   </component>
 </project>
