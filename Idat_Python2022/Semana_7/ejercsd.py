@@ -1,13 +1,17 @@
 #Practicxa de ejercicio
 Edad=int(input("Ingrese la edad: "))
-if Edad >=40:
-    Bono=300
-elif Edad >=50:
-    Bono=400
-elif Edad >=80:
-    Bono=600
-elif Edad >= 90:
-    Bono=700
+if 40 >= Edad:
+    Bono = 300
+    print("Excelente tienes un bono de S/ 300.")
+elif 50 >= Edad:
+    Bono = 400
+    print("Excelente tienes un bono de S/ 400.")
+elif 80 >= Edad:
+    Bono = 600
+    print("Excelente tienes un bono de S/ 600.")
+elif 90 >= Edad:
+    Bono = 700
+    print("Excelente tienes un bono de S/ 700.")
 else:
     print("Lamento No hay bono para este rango de edad.!")
 

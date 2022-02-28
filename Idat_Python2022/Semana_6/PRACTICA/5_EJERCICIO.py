@@ -22,7 +22,7 @@ elif Lista == "2":
     print("Amarillo, Tienes descuento del 25% mas")
     des = 0.25
 
-    # la cantidad final que el cliente deberá pagar por su compra.
+# la cantidad final que el cliente deberá pagar por su compra.
     V_compra = int(input("Ingrese el Valor: "))
     Pago = V_compra - (V_compra * des)
     print("Total a Pagar es ", Pago)
@@ -30,7 +30,7 @@ elif Lista == "3":
     print("Verde, Tienes descuento de 10% mas")
     des = 0.10
 
-    # la cantidad final que el cliente deberá pagar por su compra.
+# la cantidad final que el cliente deberá pagar por su compra.
     V_compra = int(input("Ingrese el Valor: "))
     Pago = V_compra - (V_compra * des)
     print("Total a Pagar es ", Pago)
@@ -38,7 +38,7 @@ elif Lista == "4":
     print("Azul, Tienes descuento del 50% mas")
     des = 0.5
 
-    # la cantidad final que el cliente deberá pagar por su compra.
+# la cantidad final que el cliente deberá pagar por su compra.
     V_compra = int(input("Ingrese el Valor: "))
     Pago = V_compra - (V_compra * des)
     print("Execelente hoy te llevas todo GRATIS.!! ", Pago)
@@ -46,8 +46,7 @@ elif Lista == "5":
     print("Rojo, Tienes descuento de 100% mas")
     des = 1
 
-    # la cantidad final que el cliente deberá pagar por su compra.
-
+# la cantidad final que el cliente deberá pagar por su compra.
     V_compra = int(input("Ingrese el Valor: "))
     Pago = V_compra - (V_compra * des)
     print("Total a Pagar es ", Pago)
