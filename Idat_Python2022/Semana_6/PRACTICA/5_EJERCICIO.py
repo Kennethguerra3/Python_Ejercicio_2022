@@ -17,7 +17,7 @@ Lista=input("-Selecciona algo :")
 # Según lo que ingresó, código diferente
 if Lista=="1":
     print("Blanco")
-    print("Lo Lamento no hay ningun descuento para esta opcion. :C")
+    print("Lo Lamento no hay ningun descuento para esta opcion. :C...")
 elif Lista=="2":
    print("Amarillo, Tienes descuento del 25%")
    des=0.25

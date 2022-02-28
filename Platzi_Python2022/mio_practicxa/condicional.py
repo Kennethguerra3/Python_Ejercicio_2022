@@ -4,7 +4,7 @@ edad=int(input("Ingresa tu Edad: "))
 if edad < 15:
     edad01 = 20
     print("es ",edad01)
-else edad > 30:
+elif edad > 3:
     edad02=300
     print("Es ",edad02)
 if edad > 40:
