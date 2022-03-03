@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07" />
+    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07">
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/10_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/11_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/12_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/13_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/14_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/15_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/16_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/1_Ejercicio_sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/2_Ejercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/3_Ejercicio_sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/4_Ejercicio_sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/5_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/6_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/7_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/8_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/9_Ejercicio_Sem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/10_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/11_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/1_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/2_Distrito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/3_Ejercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/4_ejercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/5_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/6_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/7_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/8_Practica_Sem07_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/9_Practica_Sem07_While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/1_While.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/2_Distrito.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/3_Ejercicio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/4_ejercicio.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +62,6 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Idat_Python2022/Semana_7/1_While.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Platzi_Python2022/mio_practicxa/condicional.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Platzi_Python2022/Generador_Clave.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Idat_Python2022/Semana_6/6.py" root0="SKIP_INSPECTION" />
@@ -63,10 +95,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.4_ejercicio">
+  <component name="RunManager" selected="Python.2_Distrito">
     <configuration name="1_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\kenneth\AppData\Local\Microsoft\WindowsApps\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -108,6 +143,9 @@
     <configuration name="3_Ejercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\kenneth\AppData\Local\Microsoft\WindowsApps\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -200,9 +238,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_ejercicio" />
         <item itemvalue="Python.2_Distrito" />
         <item itemvalue="Python.1_While" />
+        <item itemvalue="Python.4_ejercicio" />
         <item itemvalue="Python.3_Ejercicio" />
         <item itemvalue="Python.ejercsd" />
       </list>
@@ -222,7 +260,8 @@
       <workItem from="1646082630626" duration="4985000" />
       <workItem from="1646245431137" duration="112000" />
       <workItem from="1646271168129" duration="676000" />
-      <workItem from="1646312108526" duration="4422000" />
+      <workItem from="1646312108526" duration="4571000" />
+      <workItem from="1646337168497" duration="5369000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -299,13 +338,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Semana 07" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$1_While.coverage" NAME="1_While Coverage Results" MODIFIED="1646315428338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio.coverage" NAME="4_ejercicio Coverage Results" MODIFIED="1646315980497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$1_While.coverage" NAME="1_While Coverage Results" MODIFIED="1646342496199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$5_EJERCICIO.coverage" NAME="5_EJERCICIO Coverage Results" MODIFIED="1646083579360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083798848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$impo.coverage" NAME="impo Coverage Results" MODIFIED="1646086509077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$Generador_Clave.coverage" NAME="Generador_Clave Coverage Results" MODIFIED="1646083148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Platzi_Python2022" />
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Distrito.coverage" NAME="2_Distrito Coverage Results" MODIFIED="1646315450345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Distrito.coverage" NAME="2_Distrito Coverage Results" MODIFIED="1646342526535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$3_Ejercicio.coverage" NAME="3_Ejercicio Coverage Results" MODIFIED="1646315292144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$main.coverage" NAME="main Coverage Results" MODIFIED="1646271370996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$ejercsd.coverage" NAME="ejercsd Coverage Results" MODIFIED="1646271402545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />

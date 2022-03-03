@@ -3,7 +3,7 @@
 c = 2
 x = 2
 while c <= 100:
-c = c + x
-x = x + 1
-print(c)
+    c = c + x
+    x = x + 1
+    print(c)
 print("Fin del programa")

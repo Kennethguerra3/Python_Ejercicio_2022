@@ -1,0 +1,1 @@
+# 1.-  Hacer un algoritmo en Python para calcular la suma de los primeros cien números con un ciclo While.
