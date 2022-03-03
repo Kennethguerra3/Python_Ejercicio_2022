@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07">
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/10_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/11_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/12_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/13_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/14_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/15_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/16_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/1_Ejercicio_sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/2_Ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/3_Ejercicio_sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/4_Ejercicio_sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/5_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/6_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/7_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/8_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_Examen_If_elif_ else/9_Ejercicio_Sem07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/10_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/11_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/1_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/2_Distrito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/3_Ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/4_ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/5_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/6_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/7_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/8_Practica_Sem07_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/9_Practica_Sem07_While.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/1_While.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/2_Distrito.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/3_Ejercicio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/4_ejercicio.py" beforeDir="false" />
-    </list>
+    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +228,7 @@
       <workItem from="1646245431137" duration="112000" />
       <workItem from="1646271168129" duration="676000" />
       <workItem from="1646312108526" duration="4571000" />
-      <workItem from="1646337168497" duration="5369000" />
+      <workItem from="1646337168497" duration="5678000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
