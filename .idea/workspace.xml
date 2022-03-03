@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="semana 6, udpdate PRACTICA 5_EJERCICIO.py">
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/impo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA/5_EJERCICIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA/5_EJERCICIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/ejercsd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/ejercsd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +59,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Pycharm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.impo">
+  <component name="RunManager" selected="Python.ejercsd">
     <configuration name="5_EJERCICIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Ejercicio_2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +115,9 @@
       <module name="Python_Ejercicio_2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Platzi_Python2022/mio_practicxa" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -133,17 +134,14 @@
       <method v="2" />
     </configuration>
     <configuration name="ejercsd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Ejercicio_2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\kenneth\AppData\Local\Microsoft\WindowsApps\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Idat_Python2022/Semana_7/ejercsd.py" />
       <option name="PARAMETERS" value="" />
@@ -176,17 +174,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\kenneth\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.condicional" />
       <item itemvalue="Python.5_EJERCICIO" />
       <item itemvalue="Python.6" />
       <item itemvalue="Python.ejercsd" />
       <item itemvalue="Python.impo" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.impo" />
         <item itemvalue="Python.ejercsd" />
+        <item itemvalue="Python.impo" />
         <item itemvalue="Python.6" />
         <item itemvalue="Python.5_EJERCICIO" />
         <item itemvalue="Python.condicional" />
@@ -204,7 +225,9 @@
       <workItem from="1646080180407" duration="400000" />
       <workItem from="1646080603526" duration="97000" />
       <workItem from="1646081434070" duration="680000" />
-      <workItem from="1646082630626" duration="4948000" />
+      <workItem from="1646082630626" duration="4985000" />
+      <workItem from="1646245431137" duration="112000" />
+      <workItem from="1646271168129" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -234,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646085079713</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="semana 6, udpdate PRACTICA 5_EJERCICIO.py">
+      <created>1646087709931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646087709931</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,11 +288,23 @@
     <MESSAGE value="semana 6, udpdate PRACTICA 5_EJERCICIO.py" />
     <option name="LAST_COMMIT_MESSAGE" value="semana 6, udpdate PRACTICA 5_EJERCICIO.py" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$5_EJERCICIO.coverage" NAME="5_EJERCICIO Coverage Results" MODIFIED="1646083579360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6/PRACTICA" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083798848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$impo.coverage" NAME="impo Coverage Results" MODIFIED="1646086509077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$Generador_Clave.coverage" NAME="Generador_Clave Coverage Results" MODIFIED="1646083148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Platzi_Python2022" />
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$ejercsd.coverage" NAME="ejercsd Coverage Results" MODIFIED="1646085542201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$main.coverage" NAME="main Coverage Results" MODIFIED="1646271370996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$ejercsd.coverage" NAME="ejercsd Coverage Results" MODIFIED="1646271402545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
   </component>
 </project>
