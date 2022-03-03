@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="semana 6, udpdate PRACTICA 5_EJERCICIO.py">
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/1_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/2_Distrito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/3_Ejercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/4_ejercicio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/ejercsd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/impo.py" beforeDir="false" />
-    </list>
+    <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +222,7 @@
       <workItem from="1646082630626" duration="4985000" />
       <workItem from="1646245431137" duration="112000" />
       <workItem from="1646271168129" duration="676000" />
-      <workItem from="1646312108526" duration="4082000" />
+      <workItem from="1646312108526" duration="4422000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -267,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646087709931</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Semana 07">
+      <created>1646316504770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646316504770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Semana 07">
+      <created>1646316513110</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646316513110</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +295,8 @@
     <MESSAGE value="detalle" />
     <MESSAGE value="semana 6, udpdate 6.py" />
     <MESSAGE value="semana 6, udpdate PRACTICA 5_EJERCICIO.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="semana 6, udpdate PRACTICA 5_EJERCICIO.py" />
+    <MESSAGE value="Semana 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 07" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$1_While.coverage" NAME="1_While Coverage Results" MODIFIED="1646315428338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
