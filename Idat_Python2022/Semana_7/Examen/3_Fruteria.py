@@ -1,5 +1,5 @@
 # Una frutería ofrece las manzanas con descuento según la siguiente tabla:
-"""   Numero de kilos comprados	| % Descuento
+"""   Numero de kilos comprados	|     % Descuento
             0 – 2	            |       0%
             2.01 – 5	        |       10%
             5.01 – 10	        |       15 %
@@ -9,31 +9,32 @@ print("PESAJE | DESCUENTO | PAGO TOTAL")
 print("=======================================")
 print("        |FRUTITA.COM|                  ")
 
-cantidad = float(input("Ingrese kilos a comprar : "))
+# Ingresar la variables para el input:
+cant = float(input("Ingrese kilos a comprar : "))
 precio = float(input("Ingrese Precio por kilo: "))
 
-# Calculo para la condiciones de descuento del if y elif:
+# Primera tanda de descuento:
+if cant <2:
+    neto = cant * precio
+    des = neto * 0
+    total_pa = neto - des
+    print("Monto Neto:", neto, "Descuento: ", des, "Total Pagar Manzana:", total_pa)
+elif 2.01 <= cant <= 5:
+    neto = cant * precio
+    des = neto * 0.10
+    total_pa = neto - des
+    print("Monto Neto:", neto, "Descuento: ", des, "Total Pagar Manzana:", total_pa)
 
-# Ingresar la variables para el input:
-if cantidad <= 2:
-    total_neto = precio * cantidad
-    print("Total a pagar", total_neto)
-elif cantidad >= 2.01 and 5:
-    total_neto = precio * cantidad
-    descuento = total_neto * 0.10
-    Total_Pagar = total_neto - descuento
-    print("Total Pagar Manzana", Total_Pagar)
-
-elif cantidad == 5.01 and 10:
-    total_neto = precio * cantidad
-    descuento = total_neto * 0.15
-    Total_Pagar = total_neto - descuento
-    print("Total Pagar Manzana", Total_Pagar)
-
-elif cantidad >= 10.01:
-    total_neto = cantidad * precio
-    descuento = total_neto * 0.20
-    Total_Pagar = total_neto - descuento
-    print("Total Pagar Manzana", Total_Pagar)
+# Segunda tanta de descuento
+elif 5.01 <= cant <= 10:
+    neto = cant * precio
+    des = neto * 0.15
+    total_pa = neto - des
+    print("Monto Neto:", neto, "Descuento: ", des, "Total Pagar Manzana:", total_pa)
+elif cant >=10.01:
+    neto = cant * precio
+    des = neto * 0.20
+    total_pa = neto - des
+    print("Monto Neto:", neto, "Descuento: ", des, "Total Pagar Manzana:", total_pa)
 else:
-    print("No hay descuento para este pesaje!")
+    print("No hay descuento para este peso.")

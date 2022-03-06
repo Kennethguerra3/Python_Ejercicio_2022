@@ -39,5 +39,7 @@ else:
     print("Total Alquiler", Monto_Neto, "Total Impuesto:", IGV, "Total pagar", Monto_Total)
     # print(extra_k1 extra_K2, extra_k3)
 
-
+print("=======================================")
+print("GRACIAS POR TU ALQUILER, VUELTA PRONTO ")
+print("=======================================")
 
