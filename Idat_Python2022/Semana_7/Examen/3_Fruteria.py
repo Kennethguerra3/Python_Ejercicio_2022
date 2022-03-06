@@ -25,7 +25,7 @@ elif 2.01 <= cant <= 5:
     total_pa = neto - des
     print("Monto Neto:", neto, "Descuento: ", des, "Total Pagar Manzana:", total_pa)
 
-# Segunda tanta de descuento
+# Segunda tanta de descuento:
 elif 5.01 <= cant <= 10:
     neto = cant * precio
     des = neto * 0.15
