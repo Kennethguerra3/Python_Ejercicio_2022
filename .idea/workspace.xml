@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07">
-      <change afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/~WRL1309.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_6/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_6/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/3_Fruteria.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/3_Fruteria.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/Evaluacion Continua 02 -Fund Programacion.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/Evaluacion Continua 02 -Fund Programacion.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/4_ejercicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While/4_ejercicio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/2_Alumano.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/2_Alumano.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/~WRL1309.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.4_ejercicio (1)">
+  <component name="RunManager" selected="Python.2_Alumano">
     <configuration name="1_Alquiler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,20 +90,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_Alumano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\kenneth\AppData\Local\Microsoft\WindowsApps\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Idat_Python2022/Semana_7/1_While.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/2_Alumano.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,19 +202,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.1_While" />
       <item itemvalue="Python.2_Distrito" />
       <item itemvalue="Python.1_Alquiler" />
       <item itemvalue="Python.3_Fruteria" />
       <item itemvalue="Python.4_ejercicio (1)" />
+      <item itemvalue="Python.2_Alumano" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_Alumano" />
         <item itemvalue="Python.4_ejercicio (1)" />
         <item itemvalue="Python.3_Fruteria" />
         <item itemvalue="Python.1_Alquiler" />
         <item itemvalue="Python.2_Distrito" />
-        <item itemvalue="Python.1_While" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +236,8 @@
       <workItem from="1646337168497" duration="5832000" />
       <workItem from="1646401171188" duration="3247000" />
       <workItem from="1646525103000" duration="2361000" />
-      <workItem from="1646533540503" duration="12566000" />
+      <workItem from="1646533540503" duration="13235000" />
+      <workItem from="1646577478522" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -329,9 +327,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio.coverage" NAME="4_ejercicio Coverage Results" MODIFIED="1646315980497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$1_While.coverage" NAME="1_While Coverage Results" MODIFIED="1646342496199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Alumano.coverage" NAME="2_Alumano Coverage Results" MODIFIED="1646617234656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083798848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$Generador_Clave.coverage" NAME="Generador_Clave Coverage Results" MODIFIED="1646083148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Platzi_Python2022" />
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio__1_.coverage" NAME="4_ejercicio (1) Coverage Results" MODIFIED="1646546384959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio__1_.coverage" NAME="4_ejercicio (1) Coverage Results" MODIFIED="1646615406251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Distrito.coverage" NAME="2_Distrito Coverage Results" MODIFIED="1646342526535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$main.coverage" NAME="main Coverage Results" MODIFIED="1646271370996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$3_Fruteria.coverage" NAME="3_Fruteria Coverage Results" MODIFIED="1646545975497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen" />
