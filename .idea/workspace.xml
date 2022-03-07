@@ -7,7 +7,6 @@
     <list default="true" id="77fae978-8434-4456-8f8e-f169eda1f90f" name="Changes" comment="Semana 07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/2_Alumano.py" beforeDir="false" afterPath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/2_Alumano.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen/~WRL1309.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +236,7 @@
       <workItem from="1646401171188" duration="3247000" />
       <workItem from="1646525103000" duration="2361000" />
       <workItem from="1646533540503" duration="13235000" />
-      <workItem from="1646577478522" duration="3645000" />
+      <workItem from="1646577478522" duration="6633000" />
     </task>
     <task id="LOCAL-00001" summary="detalle">
       <created>1646083503132</created>
@@ -327,7 +326,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio.coverage" NAME="4_ejercicio Coverage Results" MODIFIED="1646315980497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$1_While.coverage" NAME="1_While Coverage Results" MODIFIED="1646342496199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7" />
-    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Alumano.coverage" NAME="2_Alumano Coverage Results" MODIFIED="1646617234656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen" />
+    <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$2_Alumano.coverage" NAME="2_Alumano Coverage Results" MODIFIED="1646620579585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Examen" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$6.coverage" NAME="6 Coverage Results" MODIFIED="1646083798848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_6" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$Generador_Clave.coverage" NAME="Generador_Clave Coverage Results" MODIFIED="1646083148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Platzi_Python2022" />
     <SUITE FILE_PATH="coverage/Python_Ejercicio_2022$4_ejercicio__1_.coverage" NAME="4_ejercicio (1) Coverage Results" MODIFIED="1646615406251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Idat_Python2022/Semana_7/Practica_While" />
