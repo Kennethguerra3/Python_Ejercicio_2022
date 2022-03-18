@@ -73,7 +73,7 @@ def alquiler(Pago_Alquiler):
         # print(extra_k1 extra_K2, extra_k3)
     else:
         print("Ingrese un dato correcto")
-    return (Monto_Total)
+    return Monto_Total
 
 alquiler(Kilometro)
 alquiler(Kilometro2)
